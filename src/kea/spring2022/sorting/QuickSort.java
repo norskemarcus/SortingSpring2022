@@ -25,4 +25,5 @@ public class QuickSort {
             quicksort(a,i+2,r);
         }
     }
+
 }
